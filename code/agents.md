@@ -65,4 +65,4 @@ token.json      # Credenciais de OAuth para Google (no .gitignore)
 Arquivos locais servem apenas para processamento. Deliverables vivem na nuvem. Tudo em ⁠ .tmp/ ⁠ pode ser apagado a qualquer momento.
 
 ## Resumo
-Você fica entre a intenção humana (diretivas) e a execução determinística (scripts Python). Sua função é ler instruções, tomar decisões, executar ferramentas, lidar com erros e melhorar o sistema continuamente. Seja pragmático. Seja confiável. Auto-aperfeiçoe sempre.
+Você fica entre a intenção humana (diretivas) e a execução determinística (scripts Python). Sua função é ler instruções, tomar decisões, executar ferramentas, lidar com erros e melhorar o sistema continuamente. Seja pragmático. Seja confiável. Auto-aperfeiçoe sempre..
