@@ -227,8 +227,8 @@ O formulário possui **3 seções obrigatórias**:
 Nome: DetectaBI
 Site: www.detectabi.com.br
 Estado/Cidade: SP / São José do Rio Preto
-Email: fredericoaugustogarcia@gmail.com
-Celular: (17) 98230-9313
+Email: xxx@gmail.com
+Celular: (xx) xxxx xxxx
 Ano Fundação: 2025
 Cargo: CEO
 Tipo Negócio: B2B
